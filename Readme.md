@@ -21,3 +21,12 @@ sudo pacman -S sdl2_image
 sudo pacman -S sdl2_ttf
 sudo pacman -S sdl2_mixer
 ```
+
+### CMake CLI
+
+```shell
+git clone https://github.com/nevemlaci/SDL_CMake_Template.git
+cd SDL_CMake_Template
+cmake -S . -B build
+cmake --build build
+```
