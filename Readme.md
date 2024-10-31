@@ -1,9 +1,8 @@
-### Windowson
+### Windows
 
-Csak futtasd CMake CLI-ből, vagy valamilyen CMake supportal rendelkező
-IDE(pl CLion) segítségével.
+Run from CMake CLI, or any IDE/Code Editor that has CMake support(Visual Studio, CLion, Visual Studio Code). Dependencies are bundled/built from source.
 
-### Linuxon
+### Linux
 
 #### APT:
 ```shell
@@ -22,7 +21,7 @@ sudo pacman -S sdl2_ttf
 sudo pacman -S sdl2_mixer
 ```
 
-### CMake CLI
+### Run from CMake CLI
 
 ```shell
 git clone https://github.com/nevemlaci/SDL_CMake_Template.git
