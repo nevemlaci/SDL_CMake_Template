@@ -1,6 +1,6 @@
 ### English
 
-There is an english branch with an English readme. :)
+There is an English branch with an English readme. :)
 
 ### Windowson
 
