@@ -1,3 +1,7 @@
+### English
+
+There is an english branch with an English readme. :)
+
 ### Windowson
 
 Csak futtasd CMake CLI-ből, vagy valamilyen CMake supportal rendelkező
